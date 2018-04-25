@@ -10,7 +10,7 @@ Linkedin: https://www.linkedin.com/in/andres18m
 
 Twitter:  https://twitter.com/andres18m
 
-Este codigo fue orignal originalmente por Andrés Mitre Ortiz
+Los códigos fueron originalmente por Andrés Mitre Ortiz
 Cualquier uso explícito de este código o su contenido se otorga 
 de acuerdo con la licencia provista y sus condiciones.
 
