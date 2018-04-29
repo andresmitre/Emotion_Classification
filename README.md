@@ -19,9 +19,11 @@ This script was originally created by [Andres Mitre](https://www.linkedin.com/in
 
 # Repository description 
 
-"Deep learning is a group of exciting new technologies for neural networks. Through a combination of advanced training techniques and neural network architectural components, it is now possible to create neural networks of much greater complexity. Deep learning allows a neural network to learn hierarchies of information in a way that is like the function of the human brain." [[1]](https://github.com/jeffheaton/t81_558_deep_learning)
+"Deep learning is a group of exciting new technologies for neural networks. Through a combination of advanced training techniques and neural network architectural components, it is now possible to create neural networks of much greater complexity. Deep learning allows a neural network to learn hierarchies of information in a way that is like the function of the human brain." [[1]](https://github.com/jeffheaton/t81_558_deep_learning) 
 
-Repository to recognized emotions throught CNN and GSR 
+The classifaction of emotions, starts with a FER using [haarcascades](https://github.com/opencv/opencv), with a professional camera/webcam. Images were taken while 23 participants watched a series of films related with emotions. Images were saved into separate emotions folders. 
+
+
 
 Los códigos fueron originalmente por Andrés Mitre Ortiz
 Cualquier uso explícito de este código o su contenido se otorga 
