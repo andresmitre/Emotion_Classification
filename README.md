@@ -1,3 +1,6 @@
+# UNDER CONSTRUCTION X.X
+
+
 # Emotion_Classification
 
 
@@ -13,6 +16,8 @@ Spring 2018
 
 
 # Repository description 
+
+This repository explaibs 
 
 Repository to recognized emotions throught CNN and GSR 
 
