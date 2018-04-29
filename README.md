@@ -14,9 +14,8 @@ Twitter:  https://twitter.com/andres18m
 
 Spring 2018
 
-ABOUT COPYING OR USING PARTIAL INFORMATION:
+"**ABOUT COPYING OR USING PARTIAL INFORMATION:**\n",
 This script was originally created by [Andres Mitre](https://www.linkedin.com/in/andres18m). READ LICENSE FILE
-
 # Repository description 
 
 "Deep learning is a group of exciting new technologies for neural networks. Through a combination of advanced training techniques and neural network architectural components, it is now possible to create neural networks of much greater complexity. Deep learning allows a neural network to learn hierarchies of information in a way that is like the function of the human brain." [[1]](https://github.com/jeffheaton/t81_558_deep_learning) 
