@@ -47,7 +47,7 @@ Module|Content
 [Module 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_training.ipynb)<br>Week of 02/05/2018 | <ul><li>Training a Neural Network<li>[Module 3 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class3.ipynb) due: 02/05/2018</ul>
 
 
-
+a
 VIVA MEXICO !
 
 
