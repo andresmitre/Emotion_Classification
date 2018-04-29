@@ -2,7 +2,7 @@
 Repository to recognized emotions throught CNN and GSR 
 
 
-Author: Andres Mitre Ortiz
+Author: Andres Mitre
 
 Email: andresmitre.fic@uas.edu.mx | andres18m@gmail.com
 
