@@ -12,6 +12,7 @@ Twitter:  https://twitter.com/andres18m
 Spring 2018
 
 
+# Repository description 
 
 Repository to recognized emotions throught CNN and GSR 
 
