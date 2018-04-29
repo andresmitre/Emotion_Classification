@@ -19,7 +19,7 @@ This script was originally created by [Andres Mitre](https://www.linkedin.com/in
 
 # Repository description 
 
-"Deep learning is a group of exciting new technologies for neural networks. Through a combination of advanced training techniques and neural network architectural components, it is now possible to create neural networks of much greater complexity. Deep learning allows a neural network to learn hierarchies of information in a way that is like the function of the human brain." [[1]](https://github.com/andresmitre/t81_558_deep_learning)
+"Deep learning is a group of exciting new technologies for neural networks. Through a combination of advanced training techniques and neural network architectural components, it is now possible to create neural networks of much greater complexity. Deep learning allows a neural network to learn hierarchies of information in a way that is like the function of the human brain." [[1]](https://github.com/jeffheaton/t81_558_deep_learning)
 
 Repository to recognized emotions throught CNN and GSR 
 
@@ -30,4 +30,4 @@ de acuerdo con la licencia provista y sus condiciones.
 VIVA MÉXICO !
 
 
-[1] Heaton Jeff, "T81 558:Applications of Deep Neural Networks", T81 558:Applications of Deep Neural Networks
+[1] Heaton Jeff, "T81 558:Applications of Deep Neural Networks", https://github.com/jeffheaton/t81_558_deep_learning
