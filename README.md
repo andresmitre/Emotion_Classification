@@ -23,7 +23,7 @@ This script was originally created by [Andres Mitre](https://www.linkedin.com/in
 
 The data collection, starts with a FER(Facial Expression Recognition) using [haarcascades](https://github.com/opencv/opencv), with a professional camera/webcam. Images were taken while 23 participants watched a series of films related with emotions. The images were saved into separate emotions folders. GSR lectures were recorded as well since stress and boredom emotions stimulates the activity of sweet glands. the GSR were captured with the [Grove - GSR sensor](https://www.seeedstudio.com/Grove-GSR-sensor-p-1614.html) and saved into a CSV file.
 
-The classifation for FER was made with a Convolutional Neural Network
+The classifation for FER was made with a Convolutional Neural Network by [TensorFlow](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0) with a total of 1375 images into 8 different classes, the validation/explotation stage takes 10% of the data set and validates the CNN. On the other hand the identification between emotions was made with use of [Wilcoxon signed-rank test](https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test) using [IBM SPPS](https://www.ibm.com/products/spss-statistics)
 
 
 
