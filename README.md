@@ -41,13 +41,13 @@ Contact Author
 
 Module|Content
 ---|---
-[Module 1](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Cascade.ipynb) | <ul><li>Haaar Cascade</ul>
+[Module 1](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Cascade.ipynb) | <ul><li>Introduction</ul>
 [Module 2](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Cascade.ipynb)<br>**Meet on 01/22/2018** | <ul><li>Python for Machine Learning<li>[Module 1 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class1.ipynb) Due: 01/24/2018<li>**We will meet on campus this week!** (first meeting)</ul>
 [Module 3](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Cascade.ipynb)<br>Week of 01/29/2018 | <ul><li>TensorFlow and Keras for Neural Networks<li>[Module 2: Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class2.ipynb) due: 01/29/2018</ul>
 [Module 4](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Cascade.ipynb)<br>Week of 02/05/2018 | <ul><li>Training a Neural Network<li>[Module 3 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class3.ipynb) due: 02/05/2018</ul>
 
 
-a
+
 VIVA MEXICO !
 
 
