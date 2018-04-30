@@ -42,7 +42,7 @@ Contact Author
 Module|Content
 ---|---
 [Module 1](https://github.com/andresmitre/Emotion_Classification/blob/master/introduction.ipynb) | <ul><li>Introduction</ul>
-[Module 2](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar Feature-based Cascade Classifiers.ipynb) | <ul><li>Haar Feature-based Cascade Classifiers</ul> 
+[Module 2](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar Feature-based_Cascade_Classifiers.ipynb) | <ul><li>Haar Feature-based Cascade Classifiers</ul> 
 [Module 3](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Cascade.ipynb)<br>Week of 01/29/2018 | <ul><li>TensorFlow and Keras for Neural Networks<li>[Module 2: Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class2.ipynb) due: 01/29/2018</ul>
 [Module 4](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Cascade.ipynb)<br>Week of 02/05/2018 | <ul><li>Training a Neural Network<li>[Module 3 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class3.ipynb) due: 02/05/2018</ul>
 
