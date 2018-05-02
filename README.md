@@ -1,12 +1,9 @@
-# UNDER CONSTRUCTION X.X
-
-
 # Emotion_Classification
 
 
 [Center for Research in Mathematics (CIMAT)](http://www.cimat.mx/en)
 
-Author: [Andres Mitre](https://www.linkedin.com/in/andres18m)
+Author: [Andres Mitre](https://github.com/andresmitre)
 
 Email: andresmitre.fic@uas.edu.mx | andres18m@gmail.com
 
@@ -14,8 +11,10 @@ Twitter:  https://twitter.com/andres18m
 
 Spring 2018
 
+The present work is part of an Undergraduate thesis for B.E. in Telecommunications, OS and Electronics in [Autonomous University of Sinaloa (in Spanish: Universidad Autónoma de Sinaloa, UAS)](http://web.uas.edu.mx/web/ingles/index.php) in Sinaloa, México. The work was developed in [Center for Research in Mathematics (CIMAT)](http://www.cimat.mx/en) 
+
 **ABOUT COPYING OR USING PARTIAL INFORMATION:**
-This script was originally created by [Andres Mitre](https://www.linkedin.com/in/andres18m). READ LICENSE FILE
+This script was originally created by [Andres Mitre](https://github.com/andresmitre). READ LICENSE FILE
 
 # Repository description 
 
@@ -35,7 +34,7 @@ The Convolutional Neural Network, presented a validation accuracy of 96.5%, a co
 
 # Datasets
 
-Contact Author
+Contact [Author](https://github.com/andresmitre)
 
 # Content
 
@@ -44,7 +43,7 @@ Module|Content
 [Module 1](https://github.com/andresmitre/Emotion_Classification/blob/master/introduction.ipynb) | <ul><li>Introduction</ul>
 [Module 2](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Feature_based_Cascade_Classifiers.ipynb) | <ul><li>Haar Feature-based Cascade Classifiers</ul> 
 [Module 3](https://github.com/andresmitre/Emotion_Classification/blob/master/data_acquisition.ipynb) | <ul><li>Data acquisition</ul>
-[Module 4](https://github.com/andresmitre/Emotion_Classification/blob/master/Haar_Cascade.ipynb)| <ul><li>Training Neural Network</ul>
+[Module 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class4.ipynb)| <ul><li>Convolutional Neural Network</ul>
 
 
 
