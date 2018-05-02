@@ -2,7 +2,7 @@
 """
 Created on Tue Apr  3 19:02:39 2018
 =================================================================
-Código: Adquisición de datos de emociones actuadas
+
 ==================================================================
 Author: Andres Mitre Ortiz
 
@@ -12,14 +12,12 @@ Linkedin: https://www.linkedin.com/in/andres18m
 
 Twitter:  https://twitter.com/andres18m
 
-Este codigo fue orignal originalmente por Andrés Mitre Ortiz
-Cualquier uso explícito de este código o su contenido se otorga 
-de acuerdo con la licencia provista y sus condiciones.
-
-VIVA MÉXICO !
+                  Apache License
+              Version 2.0, January 2004
+            http://www.apache.org/licenses/
 
 =================================================================
-Adquisición de datos de emociones actuadas
+
 ==================================================================
 
 """
